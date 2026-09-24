@@ -12,9 +12,9 @@ Currently, I'm focused on building projects that combine **data science with rea
 
 - 🎓 Data Science Student at **BINUS University**
 - 🧠 Interested in **Machine Learning, Data Analytics, NLP, and AI**
-- 🏆 **2nd Place — Data Science Olympiad: Data Heist**
-- 👨‍🏫 Experienced in mentoring students in **Scientific Computing, SQL, and Machine Learning**
-- 💻 Building end-to-end data science projects from **data processing → modeling → deployment**
+- 🏆 **2nd Place in National Data Science Olympiad: Data Heist**
+- 👨‍🏫 **Scholarship Awardee** in **BINUS University**
+- 💻 Building end-to-end data science projects from **data processing, modeling to deployment**
 - 📚 Continuously learning and experimenting with new technologies
 
 ---
@@ -48,12 +48,10 @@ Currently, I'm focused on building projects that combine **data science with rea
 
 ## 📌 Featured Projects
 
-### 🤖 Face Age Detection
-Deep learning application for facial age estimation using **ResNet18**, computer vision, and ONNX deployment.
-
-**Tech:** Python · PyTorch · OpenCV · ONNX · JavaScript
+### 📈 Regime Change Detection
+Financial market regime detection using **Hidden Markov Models (HMM)** to identify different market conditions across
 
 ---
 
-### 📈 Regime Change Detection
-Financial market regime detection using **Hidden Markov Models (HMM)** to identify different market conditions across
+### 📈 Online Shop Recommendation System
+Online Shop Recommendation System based on User's interest on product using **Cosine Similarity**
